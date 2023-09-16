@@ -1,6 +1,6 @@
 # Boring
 Used to find a job, get a job easily.
-![Interface Web](Chômage-Afrique-du-sud.jpg?raw=true "Illustration de la situation")
+![Interface Web](1.jpg?raw=true "Illustration de la situation")
 # Application d'aide aux chômeurs.
 
 ## Presentation
