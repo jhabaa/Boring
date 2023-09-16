@@ -2,7 +2,7 @@
 Used to find a job, get a job easily.
 
 # Application d'aide aux chômeurs.
-
+Chômage-Afrique-du-sud.jpg
 ## Presentation
 Ceci est une application de petites annonces qui mettra en relation des chercheurs d'emploi et des annonceurs. On ne parle pas ici seulement de contrats de longue dure mais aussi de missions sur une durée très courte. cela peut être un avocat pour un procès ponctuel, un médecin de maison ou une nounou pour garder les petits.
 
